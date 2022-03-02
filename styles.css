@@ -91,7 +91,7 @@ body {
 }
 
 .img-text-wrapper .subtitle {
-    /* transition: 1s; */
+    transition: 1s;
     font-weight: 600;
     color: transparent;
   }
@@ -130,7 +130,7 @@ body {
   }
   
   .profile-content-wrapper h1 {
-    color: lightsalmon;
+    color: grey;
   }
 
   /* About page */
@@ -152,3 +152,7 @@ body {
   a {
     text-decoration:none;
     }
+
+.title {
+  margin-right: 153px;
+}
