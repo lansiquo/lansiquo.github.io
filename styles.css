@@ -100,7 +100,7 @@ body {
 
   .image-blur {
     transition: 1s;
-    filter: brightness(10%);
+    filter: brightness(0%);
   }
   
   .img-text-wrapper:hover .subtitle {
