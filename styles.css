@@ -155,5 +155,10 @@ body {
     }
 
 .title {
-  margin-right: 90px;
+  margin-right: 80px;
+}
+
+footer {
+  text-align: center;
+  background-color: lightgrey;
 }
