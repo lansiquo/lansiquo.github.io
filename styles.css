@@ -1,8 +1,8 @@
-/*Master Styles */
+/*M1ster Styles */
 body {
     margin:  0px;
     font-family: "Lato", sans-serif;
-    background-color:aliceblue
+    background-color:aliceblue;
 }
 
 .container {
@@ -157,6 +157,11 @@ body {
 
 .title {
   margin-right: 80px;
+}
+
+.footer-items-wrapper{
+  display: flex;
+  grid-template-columns: 1fr;
 }
 
 
